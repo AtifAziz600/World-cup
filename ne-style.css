@@ -1,0 +1,15 @@
+.tre {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+
+.qwe {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.blog-info {
+    justify-content: center;
+    gap: 10px;
+}
