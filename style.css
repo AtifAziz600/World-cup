@@ -1,3 +1,91 @@
-.diso {
-    font-size: large;
+body {
+    background-color: white;
+}
+
+main {
+    justify-content: center;
+    width: 1321px;
+    height: 646px;
+    margin-left: 80px;
+}
+
+.container {
+    align-items: center;
+}
+
+.test {
+    width: 531px;
+    height: 424px;
+}
+
+.back img {
+    width: 581px;
+    height: 613px;
+}
+
+.container {
+    justify-content: center;
+}
+
+.high {
+    font-size: 70px;
+    color: #FFFFFF;
+}
+
+.sdf {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.back {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #161616;
+    border-radius: 30px;
+}
+
+span {
+    color: #FFFFFF;
+    background: #DD0000;
+    border-radius: 5px;
+}
+
+.wse {
+    justify-content: space-between;
+}
+
+.fa-angle-right {
+    color: #FFFFFF;
+}
+
+.sp {
+    width: 187px;
+    height: 56px;
+    padding: 16px 25px;
+    gap: 10px;
+}
+
+hr {
+    border: 1px solid #D1D1D1;
+    margin-bottom: 27px;
+}
+
+footer {
+    background-color: #161616;
+    height: 350px;
+}
+
+footer h3 {
+    text-align: center;
+    color: #B9B9B9;
+    font-size: 40px;
+}
+
+.fit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: #B9B9B9;
+    font-size: 16px;
 }
